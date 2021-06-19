@@ -9,7 +9,7 @@ INSERT INTO publisher (name,country) values ("Vintage","UK");
 
 
 INSERT INTO books(title,publisher) values ("The C Programming Language",1);
-INSERT INTO books(title,publisher) values ("The go Programming Language",1);
+INSERT INTO books(title,publisher) values ("The Go Programming Language",1);
 INSERT INTO books(title,publisher) values ("The UNIX Programming Environment",1);
 INSERT INTO books(title,publisher) values ("Cryptonomicon",2);
 INSERT INTO books(title,publisher) values ("Deep Work",3);
